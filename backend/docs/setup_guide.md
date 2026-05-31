@@ -92,13 +92,13 @@ PORT=8007
 STORAGE_PATH=Storage
 
 # 阿里云百炼配置
-BAILIAN_API_KEY=sk-7d45f77cbe0d46a5975c36819f1214d6
+BAILIAN_API_KEY=your_bailian_api_key_here
 BAILIAN_REGION=beijing
 BAILIAN_ASR_MODEL=qwen3-asr-flash
 BAILIAN_TTS_MODEL=cosyvoice-v1
 
 # DeepSeek 配置
-DEEPSEEK_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxx
+DEEPSEEK_API_KEY=your_deepseek_api_key_here
 DEEPSEEK_BASE_URL=https://api.deepseek.com
 
 # 高德地图配置
